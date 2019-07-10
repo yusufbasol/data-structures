@@ -6,7 +6,7 @@
 * Ouick sort (Hızlı sıralama)
 * Shell sort (Kabuk sıralaması)
 
-**c**,**java**,**c++**
+**C**, **Java**, **C++**
 
 [Document](https://docs.google.com/uc?export=download&id=0B9-WwgR_SPomZW1hT3c3Y3d0MzhDVWdhVHlDT3A5NVdpN2Vj).
 
