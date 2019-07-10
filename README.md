@@ -6,6 +6,6 @@
 * Ouick sort (Hızlı sıralama)
 * Shell sort (Kabuk sıralaması)
 
-[document](https://docs.google.com/uc?export=download&id=0B9-WwgR_SPomZW1hT3c3Y3d0MzhDVWdhVHlDT3A5NVdpN2Vj).
+[Document](https://docs.google.com/uc?export=download&id=0B9-WwgR_SPomZW1hT3c3Y3d0MzhDVWdhVHlDT3A5NVdpN2Vj).
 
 ![alt document](https://github.com/yusufbasol/data-structures/blob/master/sunum.png)
